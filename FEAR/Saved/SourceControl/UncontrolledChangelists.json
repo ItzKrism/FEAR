@@ -5,7 +5,22 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Diana Lewis/Documents/CG Spectrum Work/FEAR/FEAR/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/Diana Lewis/Documents/CG Spectrum Work/FEAR/FEAR/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Diana Lewis/Documents/CG Spectrum Work/FEAR/FEAR/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"C:/Users/Diana Lewis/Documents/CG Spectrum Work/FEAR/FEAR/Content/FirstPerson/Input/Actions/IA_Shoot.uasset",
+				"C:/Users/Diana Lewis/Documents/CG Spectrum Work/FEAR/FEAR/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"C:/Users/Diana Lewis/Documents/CG Spectrum Work/FEAR/FEAR/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Users/Diana Lewis/Documents/CG Spectrum Work/FEAR/FEAR/Content/FirstPerson/Input/Actions/IA_Sprint.uasset",
+				"C:/Users/Diana Lewis/Documents/CG Spectrum Work/FEAR/FEAR/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Diana Lewis/Documents/CG Spectrum Work/FEAR/FEAR/Content/Enemies/Walker/BP_WalkerZombie.uasset",
+				"C:/Users/Diana Lewis/Documents/CG Spectrum Work/FEAR/FEAR/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"C:/Users/Diana Lewis/Documents/CG Spectrum Work/FEAR/FEAR/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/CD/PCQYT8JSRL5FUA5V2PC2FH.uasset",
+				"C:/Users/Diana Lewis/Documents/CG Spectrum Work/FEAR/FEAR/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/5G/N3S20CB0DG247665NQQNJO.uasset",
+				"C:/Users/Diana Lewis/Documents/CG Spectrum Work/FEAR/FEAR/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/ZJ/Y7RAHJLFDUF8Y7RR03C9ST.uasset",
+				"C:/Users/Diana Lewis/Documents/CG Spectrum Work/FEAR/FEAR/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/0M/LYKU8MRWM4BO3O1FDZBG2U.uasset",
+				"C:/Users/Diana Lewis/Documents/CG Spectrum Work/FEAR/FEAR/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/0O/4IRR0TBO7VGKMMYSZRQTB1.uasset",
+				"C:/Users/Diana Lewis/Documents/CG Spectrum Work/FEAR/FEAR/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/80/RCXALNT3NG94XMV0V6D4XE.uasset",
+				"C:/Users/Diana Lewis/Documents/CG Spectrum Work/FEAR/FEAR/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/G2/DXY1ROMU8NVTUPH999VNGV.uasset"
 			]
 		}
 	]
