@@ -24,7 +24,28 @@
 				"C:/Users/Diana Lewis/Documents/CG Spectrum Work/FEAR/FEAR/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/RN/55P1SMQLAF7OK6300D5I8N.uasset",
 				"C:/Users/Diana Lewis/Documents/CG Spectrum Work/FEAR/FEAR/Content/Enemies/Walker/Custom_Death.uasset",
 				"C:/Users/Diana Lewis/Documents/CG Spectrum Work/FEAR/FEAR/Content/ControlRig/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
-				"C:/Users/Diana Lewis/Documents/CG Spectrum Work/FEAR/FEAR/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset"
+				"C:/Users/Diana Lewis/Documents/CG Spectrum Work/FEAR/FEAR/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"C:/Users/Diana Lewis/Documents/CG Spectrum Work/FEAR/FEAR/Content/UI/WB_EnemyHealthBar.uasset",
+				"C:/Users/Diana Lewis/Documents/CG Spectrum Work/FEAR/FEAR/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/1V/BHJLPW1ZRRY0M8WU8VTO3E.uasset",
+				"C:/Users/Diana Lewis/Documents/CG Spectrum Work/FEAR/FEAR/Content/Sounds/WeaponSounds/MainWeapon/Main_Weapon_Reload_SFX.uasset",
+				"C:/Users/Diana Lewis/Documents/CG Spectrum Work/FEAR/FEAR/Content/Enemies/Walker/WalkerAnimations/WalkerBehaviorTree.uasset",
+				"C:/Users/Diana Lewis/Documents/CG Spectrum Work/FEAR/FEAR/Content/Enemies/Walker/WalkerAnimations/WalkerBlackBoard.uasset",
+				"C:/Users/Diana Lewis/Documents/CG Spectrum Work/FEAR/FEAR/Content/Enemies/Walker/WalkerAnimations/WalkerRoam.uasset",
+				"C:/Users/Diana Lewis/Documents/CG Spectrum Work/FEAR/FEAR/Content/Sounds/ZombieSounds/Zombie-Growling-sound-effect.uasset",
+				"C:/Users/Diana Lewis/Documents/CG Spectrum Work/FEAR/FEAR/Content/AI/Tasks/BTTask_RoamAround.uasset",
+				"C:/Users/Diana Lewis/Documents/CG Spectrum Work/FEAR/FEAR/Content/Enemies/Walker/WalkerAnimations/Walker_AI_Controller.uasset",
+				"C:/Users/Diana Lewis/Documents/CG Spectrum Work/FEAR/FEAR/Content/Enemies/Walker/WalkerAnimations/WalkerControllers/WalkerRoam.uasset",
+				"C:/Users/Diana Lewis/Documents/CG Spectrum Work/FEAR/FEAR/Content/Enemies/Walker/WalkerAnimations/WalkerControllers/Walker_AI_Controller.uasset",
+				"C:/Users/Diana Lewis/Documents/CG Spectrum Work/FEAR/FEAR/Content/Enemies/Walker/WalkerAnimations/WalkerControllers/WalkerBehaviorTree.uasset",
+				"C:/Users/Diana Lewis/Documents/CG Spectrum Work/FEAR/FEAR/Content/Enemies/Walker/WalkerAnimations/WalkerControllers/WalkerBlackBoard.uasset",
+				"C:/Users/Diana Lewis/Documents/CG Spectrum Work/FEAR/FEAR/Content/Enemies/Walker/WalkerAnimations/WalkerAnimations/AB_Walker.uasset",
+				"C:/Users/Diana Lewis/Documents/CG Spectrum Work/FEAR/FEAR/Content/Enemies/Walker/WalkerAnimations/WalkerAnimations/Walker_Zombie_Idle.uasset",
+				"C:/Users/Diana Lewis/Documents/CG Spectrum Work/FEAR/FEAR/Content/Enemies/Walker/WalkerAnimations/WalkerAnimations/Walker_Zombie_Attack.uasset",
+				"C:/Users/Diana Lewis/Documents/CG Spectrum Work/FEAR/FEAR/Content/Enemies/Walker/WalkerAnimations/WalkerAnimations/Walker_Zombie_To_Chase.uasset",
+				"C:/Users/Diana Lewis/Documents/CG Spectrum Work/FEAR/FEAR/Content/Enemies/Walker/WalkerAnimations/WalkerAnimations/Walker_Zombie_Chase.uasset",
+				"C:/Users/Diana Lewis/Documents/CG Spectrum Work/FEAR/FEAR/Content/Enemies/Walker/WalkerAnimations/WalkerAnimations/BS_Walker.uasset",
+				"C:/Users/Diana Lewis/Documents/CG Spectrum Work/FEAR/FEAR/Content/Zombie_01/Animation/In_Place/Zombie_Chase_1_Loop_IPC.uasset",
+				"C:/Users/Diana Lewis/Documents/CG Spectrum Work/FEAR/FEAR/Content/AI/Tasks/BTTask_ChasePlayer.uasset"
 			]
 		}
 	]
